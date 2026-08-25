@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "jewicked.aternos.me:28365",
+    "port": 28365,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
